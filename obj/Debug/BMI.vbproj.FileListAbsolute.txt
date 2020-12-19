@@ -1,0 +1,13 @@
+C:\School\CSC-139\Chapter7\BMI\bin\Debug\BMI.exe.config
+C:\School\CSC-139\Chapter7\BMI\bin\Debug\BMI.exe
+C:\School\CSC-139\Chapter7\BMI\bin\Debug\BMI.pdb
+C:\School\CSC-139\Chapter7\BMI\bin\Debug\BMI.xml
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.frmMain.resources
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.Resources.resources
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.exe
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.xml
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.pdb
+C:\School\CSC-139\Chapter7\BMI\obj\Debug\BMI.SplashScreen.resources
